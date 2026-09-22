@@ -2,7 +2,9 @@
 EXP:1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
 NAME:SATHIYA PRIYAN G
 REG NO: 212225100048
-Aim
+
+
+AIM:
 To create and demonstrate different material properties in Unreal Engine, including emissive lighting, surface roughness, and metallic effects, using the Material Editor.
 
 Procedure
